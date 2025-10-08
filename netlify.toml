@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/thanks"
+  to = "/forms/netlify.html"
+  status = 200
+
+[build]
+  publish = "/"
